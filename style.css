@@ -1,0 +1,16 @@
+h1::first-letter{
+    color:blue
+}
+body{
+    background-color:aquamarine ;
+}
+h4::first-line{
+    color:red
+}
+h1{
+    background-color: white;
+    opacity: 0.7;
+}
+li{
+    display: inline-block;
+}
